@@ -23,3 +23,8 @@ docker-compose up
 ```
 docker exec -it ibkr bash
 ```
+
+
+## app2.py
+app2.py is the MCP server. It was created by converting the flask app to fastapi app first then add the FastMCP.
+
